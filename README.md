@@ -1,1 +1,1 @@
-# Pihole Blocklits
+# Pihole Blocklists
