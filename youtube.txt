@@ -1,0 +1,17 @@
+0.0.0.0 www.youtube.com
+0.0.0.0 youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 www.youtu.be
+0.0.0.0 i.ytimg.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 gdata.youtube.com
+0.0.0.0 uploads.gdata.youtube.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 youtubekids.com
+0.0.0.0 www.youtubekids.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 youtube.googleapis.com
+
+0.0.0.0 s.youtube.com
+0.0.0.0 yt3.ggpht.com
